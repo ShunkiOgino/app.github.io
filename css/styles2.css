@@ -1,0 +1,37 @@
+
+header {
+  height:400px;
+}
+
+body .container {
+  display: flex;
+  width: 300px;
+  font-size: 40px;
+  font-family: sans-serif;
+  margin: 0 auto ;
+}
+
+body .blue {
+  color:rgb(9, 180, 243);
+}
+
+body .red {
+  color: red;
+}
+
+body .yellow {
+  color:rgb(230, 215, 8);
+}
+
+
+body .green {
+  color:rgb(23, 158, 23);
+}
+
+section  .search {
+  width: 300px;
+  margin: 0 auto;
+  border-radius: 4px;
+
+}
+
